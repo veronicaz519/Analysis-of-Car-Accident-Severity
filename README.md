@@ -1,2 +1,2 @@
-# Coursera_Capstone
+# Analysis of Car Accident Severity
 Capstone Project
